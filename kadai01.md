@@ -36,4 +36,22 @@ IMG2 = imresize(IMG,2,'box'); % 画像の拡大
 
 図3
 
-あ
+
+1/4サンプリング、1/8から1/32サンプリングは、
+
+IMG = imresize(ORG,0.5); % 画像の縮小  
+IMG2 = imresize(IMG,2,'box'); % 画像の拡大
+
+を繰り返す．サンプリングの結果を図４～６に示す。
+
+![原画像](https://github.com/chi-bakun/Image-Processing-Technology-Reports/blob/master/image/kadai1/kadai1_4.png)
+
+図4
+
+![原画像](https://github.com/chi-bakun/Image-Processing-Technology-Reports/blob/master/image/kadai1/kadai1_5.png)
+
+図5
+
+![原画像](https://github.com/chi-bakun/Image-Processing-Technology-Reports/blob/master/image/kadai1/kadai1_6.png)
+
+図6

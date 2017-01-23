@@ -81,6 +81,6 @@ imagesc(IMG); colormap(gray); colorbar;  axis image;
 
 結果を図4に示す。
 
-![原画像](https://github.com/chi-bakun/Image-Processing-Technology-Reports/blob/master/image/kadai1/kadai2_4.png)
+![原画像](https://github.com/chi-bakun/Image-Processing-Technology-Reports/blob/master/image/kadai2/kadai2_4.png)
 
 図4
